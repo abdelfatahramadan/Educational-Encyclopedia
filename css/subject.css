@@ -1,0 +1,19 @@
+table {
+    border-spacing: 0;
+    width: 100%;
+    border: 2px solid #bbb;
+    margin: 20% 0%;
+    text-decoration: none;
+}
+
+th,
+td {
+    padding: 8px;
+    text-align: center;
+    border: 1px solid #bbb;
+}
+
+th {
+    background-color: #000;
+    color: white;
+}
