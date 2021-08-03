@@ -26,3 +26,16 @@ caption{
     font-weight: 600;
 
 }
+.z{
+    height: 300px;
+    padding-top: 100px;
+    
+}
+.z img{
+    display: block;
+    margin: auto auto;
+    width: 200px;
+}
+.z h1{
+    text-align: center;
+}
