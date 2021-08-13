@@ -1,7 +1,7 @@
 table {
     border-spacing: 0;
     width: 100%;
-    margin: 200px 0;
+    margin: 150px 0;
 }
 
 th,
@@ -21,21 +21,30 @@ td:nth-child(even) {
     background-color: #f2f2f2
 }
 
-caption{
+caption {
     font-size: 20px;
     font-weight: 600;
+}
 
+.z {
+    padding: 100px 20px 0px;
+    font-size: 100px;
+    line-height: 200px;
 }
-.z{
-    height: 300px;
-    padding-top: 100px;
-    
-}
-.z img{
-    display: block;
-    margin: auto auto;
+
+.z img {
     width: 200px;
+    float: right;
 }
-.z h1{
+
+.z h1 {
+    float: left;
+}
+
+.z .cent {
     text-align: center;
+}
+
+.e {
+    background: yellow;
 }
